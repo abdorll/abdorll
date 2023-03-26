@@ -1,4 +1,3 @@
-[![MasteHead](https://venturebeat.com/wp-content/uploads/2021/03/pasted-image-0.png?fit=1857%2C985&strip=all)](abdorll.github.io)
 <h1 align="center">Hi 👋, I'm Abdorll</h1>
 <h3 align="center">A Cross-platform Mobile App Developer (Flutter/Dart) 🎯</h3>
 
@@ -18,7 +17,7 @@
 
 - 📄 Know about my experiences [bit.ly/3npKB0c](bit.ly/3npKB0c)
 
-- ⚡ Fun fact **Jovial Introvert 😀**
+- ⚡ Fun fact **I'm a Jovial Introvert 😀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
