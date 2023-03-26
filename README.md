@@ -9,15 +9,17 @@
 
 - 👯 I’m looking to collaborate on **Flutter based projects**
 
-- 👨‍💻 My portfolio [abdorll.github.io](abdorll.github.io)
+- 👨‍💻 My portfolio [abdorll.github.io](https://abdorll.github.io)
 
 - 💬 Ask me about **Flutter & Dart**
 
 - 📫 How to reach me **abdullahopadeji50@gmail.com**
 
-- 📄 Know about my experiences [bit.ly/3npKB0c](bit.ly/3npKB0c)
+- 📄 Know about my experiences [bit.ly/3npKB0c](https://bit.ly/3npKB0c)
 
 - ⚡ Fun fact **I'm a Jovial Introvert 😀**
+
+- ☎ Chat me [Chat](https://wa.me/2349076106639?text=Hi+Abdorll)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
